@@ -10,11 +10,12 @@ The Health Clinic Appointment System is a user-friendly web application designed
   - Book, reschedule, or cancel appointments.
   
 - **Clinic Doctor Portal:**
+  - Register and log in.
   - Manage appointment schedules.
   - Add, update, or delete time slots.
   - View patient appointment.
 
-  - **Admin Portal:**
+- **Admin Portal:**
   - Monitor the Doctor Activity.
   - View patient appointment.
 
