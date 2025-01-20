@@ -82,7 +82,7 @@ The Health Clinic Appointment System is a user-friendly web application designed
      ```
    - Frontend:
      ```bash
-     cd ../frontend
+     cd frontend
      npm start
      ```
      - Client:
