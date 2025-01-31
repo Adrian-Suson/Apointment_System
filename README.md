@@ -1,7 +1,7 @@
 # Health Clinic Appointment System
 
 ## Overview
-The Health Clinic Appointment System is a user-friendly web application designed to streamline the appointment booking process for health clinics. It allows patients to book, reschedule, or cancel appointments, while enabling clinic staff to manage schedules efficiently. This system is built with scalability and ease of use in mind, aiming to improve the overall patient experience and administrative workflow.
+The Health Clinic Appointment System is a user-friendly web application designed to streamline the appointment booking process for health clinics. It allows patients to book appointments, while enabling clinic staff to manage schedules efficiently. This system is built with scalability and ease of use in mind, aiming to improve the overall patient experience and administrative workflow.
 
 ## Features
 - **Patient Portal:**
